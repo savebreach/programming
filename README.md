@@ -15,4 +15,5 @@ A visual presentation of collection of courses, interesting snippets and learnin
 # Excercises 🏋️
 
 [**100 Numpy excercises**](https://github.com/rougier/numpy-100)
+
 [**Math to Code**](https://mathtocode.com/)
